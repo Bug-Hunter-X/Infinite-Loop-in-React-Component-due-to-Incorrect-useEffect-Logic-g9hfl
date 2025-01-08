@@ -1,0 +1,1 @@
+This repository demonstrates a common error in React applications involving infinite loops caused by incorrect usage of the useEffect hook with the useState hook. The bug.js file contains the erroneous code, which creates an infinite loop when the count exceeds 10. The bugSolution.js file provides a corrected version that addresses this issue.
